@@ -1,0 +1,23 @@
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Environment variables
+.env
+
+# Logs
+logs/
+
+# Large data files
+data/
+images/
+
+# Trained models
+models/
+
+# Figures
+figures/
+
+# Other
+temp/
+*.log

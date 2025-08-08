@@ -1,0 +1,8 @@
+tensorflow==2.15.0 
+numpy==1.26.4 
+pandas==2.2.2 
+Pillow==10.4.0
+scikit-learn==1.5.1
+flask==3.0.3 
+kaggle==1.6.17 
+matplotlib==3.9.2
